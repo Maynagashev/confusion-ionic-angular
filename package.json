@@ -20,7 +20,12 @@
     "cordova-plugin-statusbar",
     "cordova-plugin-device",
     "cordova-plugin-splashscreen",
-    "ionic-plugin-keyboard"
+    "ionic-plugin-keyboard",
+
+    "cordova-plugin-vibration",
+    "cordova-plugin-image-picker",
+    "https://github.com/EddyVerbruggen/Toast-PhoneGap-Plugin.git",
+    "de.appplant.cordova.plugin.local-notification"
   ],
   "cordovaPlatforms": []
 }
